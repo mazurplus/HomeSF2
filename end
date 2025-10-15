@@ -1,0 +1,72 @@
+[33mcommit 7f3b16f0ee81f4219dc0a9e722f0c86f49d48264[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: AlexSKAIZER <mazurplus@gmail.com>
+Date:   Mon Oct 6 20:03:46 2025 +0700
+
+    Дописал комментарий
+
+[33mcommit d335f09466e734470a43b45774f9e4d9c601e3c2[m
+Author: AlexSKAIZER <mazurplus@gmail.com>
+Date:   Mon Oct 6 19:41:08 2025 +0700
+
+    пометил строки которые надо подчеркнуть
+
+[33mcommit b06793ecb6a8885f9ded59e360ab245bd78f1161[m
+Author: AlexSKAIZER <mazurplus@gmail.com>
+Date:   Mon Oct 6 19:37:00 2025 +0700
+
+    убрал подчеркивание
+
+[33mcommit c32372a043d45e4967a60dcefc0e5f4848f302d0[m
+Merge: 288ce37 b8888e2
+Author: AlexSKAIZER <mazurplus@gmail.com>
+Date:   Mon Oct 6 19:27:03 2025 +0700
+
+    исправлен конфликт
+
+[33mcommit 288ce37de2e9b419588797e2ba005f7220bcc065[m
+Author: AlexSKAIZER <mazurplus@gmail.com>
+Date:   Mon Oct 6 19:17:45 2025 +0700
+
+    помечены строки где были правки
+
+[33mcommit b8888e299961a760eda2f09b1f0104b70d7eec95[m[33m ([m[1;31morigin/markdown[m[33m)[m
+Author: AlexSKAIZER <mazurplus@gmail.com>
+Date:   Mon Oct 6 19:11:33 2025 +0700
+
+    Добавил подчеркнутый текст
+
+[33mcommit 78970eea3b406f6ac7b4e009ba2c1e1629c9b2ba[m
+Author: AlexSKAIZER <mazurplus@gmail.com>
+Date:   Mon Oct 6 19:03:53 2025 +0700
+
+    добавил файл для задания
+
+[33mcommit 984344c7b5928faf135dd9ad7e9ac8b77cd28fa7[m
+Author: AlexSKAIZER <mazurplus@gmail.com>
+Date:   Mon Oct 6 18:32:56 2025 +0700
+
+    правки для теста слияний
+
+[33mcommit 4a94883dcea758c2dc681b53c76f2e444f3c18fb[m
+Author: AlexSKAIZER <mazurplus@gmail.com>
+Date:   Mon Oct 6 18:29:59 2025 +0700
+
+    add in branch newedition
+
+[33mcommit 05fbcfcfe82b09ef6f8435f2d1b6d3d3fc5f8431[m
+Author: AlexSKAIZER <mazurplus@gmail.com>
+Date:   Mon Oct 6 18:22:38 2025 +0700
+
+    second edition
+
+[33mcommit 965191e79656d3e28424acca25d2a729b1d9c046[m
+Author: AlexSKAIZER <mazurplus@gmail.com>
+Date:   Mon Oct 6 18:20:10 2025 +0700
+
+    first edition
+
+[33mcommit 78b2c87d0731ed42a7c8dca89ac5a04b70e52668[m
+Author: AlexSKAIZER <mazurplus@gmail.com>
+Date:   Mon Oct 6 18:15:58 2025 +0700
+
+    created file
